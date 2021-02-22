@@ -1,0 +1,5 @@
+Credentials cache: API:E9D27D79-DA27-4001-964A-62CF2C6C25EF
+        Principal: ctang@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Feb 18 18:12:05 2021  Feb 19 04:12:00 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
